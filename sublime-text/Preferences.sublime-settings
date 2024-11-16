@@ -1,0 +1,16 @@
+{
+	"font_face": "DejaVu Sans Mono for Powerline",
+	"font_size": 9,
+	"ignored_packages": [
+        "Vintage", "ActionScript", "AppleScript", "ASP", "Batch File", "C#", 
+        "Clojure", "CSS", "D", "Diff", "Erlang", "Git Formats", 
+        "Go", "Graphviz", "Groovy", "Haskell", "HTML", "Java", 
+        "LaTeX", "Lisp", "Lua", "Makefile", "Matlab", 
+        "Objective-C", "OCaml", "Perl", "PHP", "Python", 
+        "R","Rails", "RestructuredText", "Ruby", "Rust", 
+        "Scala", "ShellScript", "SQL", "TCL", "Textile", "XML",
+       ],
+	"index_files": true,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+}

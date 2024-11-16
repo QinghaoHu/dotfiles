@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Default File Type",
+		"Hide Menu",
+		"Package Control",
+		"Theme - Legacy",
+	],
+	"in_process_packages":
+	[
+	],
+}
